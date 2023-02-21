@@ -1,0 +1,18 @@
+enterprisedb 
+download postgreSQL 
+
+postgresSQL commands
+psql -U postgres
+
+CREATE DATABASE student;
+
+\l
+\du
+
+
+maven -> demo -> lifecycle -> clean
+-> install
+
+jar is an image
+can use it in docker
+can run multiple instances on diff ports --server.port=8081
